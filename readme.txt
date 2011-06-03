@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Participants Widget ===
 Contributors: mrenoch, pstengel, dbeeby
 Donate link: http://cccnmtl.columbia.edu
 Tags: posts, comments, education 
