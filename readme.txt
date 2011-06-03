@@ -28,6 +28,8 @@ author's posts, and comments (deep linked to the context they they came from).
 
 == Screenshots ==
 
+1. Participants-widget in action: http://ccnmtl.columbia.edu/compiled/released/happy_comment_trails.html
+
 == Changelog ==
 
 = 1.1 =
@@ -39,4 +41,5 @@ author's posts, and comments (deep linked to the context they they came from).
 
 == Upgrade Notice ==
 
+N/A
 
