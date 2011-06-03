@@ -12,6 +12,8 @@ This widget displays a list of the blog's participants, with a link to their pro
 
 This wordpress widget displays a list of the blog's participants, with a link to their profile, and the number of posts and comments they have contributed.
 
+This project was generously supported by The Columbia Center for New Media Teaching and Learning (http://ccnmtl.columbia.edu).
+
 == Installation ==
 
 Plugin code is available at https://github.com/ccnmtl/participants-widget.  
