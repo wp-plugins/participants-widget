@@ -6,7 +6,7 @@ Requires at least: 2.5
 Tested up to: 3.0.4
 Stable tag: trunk
 
-This wordpress widget displays a list of the blog's participants, with a link to their profile, and the number of posts and comments they have contributed.
+This widget displays a list of the blog's participants, with a link to their profile, and the number of posts and comments they have contributed.
 
 == Description ==
 
